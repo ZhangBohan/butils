@@ -1,6 +1,6 @@
 # Butils
 
-## build
+## How to upload to pypi
 
 ```
 rm dist/*
