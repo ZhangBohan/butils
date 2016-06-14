@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='butils',
-    version='0.0.5',
+    version='0.0.6',
     keywords=('utils',),
     description='A useful utils package',
     license='MIT License',

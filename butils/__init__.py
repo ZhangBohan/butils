@@ -1,6 +1,8 @@
 import functools
 import json
 
+from .case_converter import *
+
 import logging
 logger = logging.getLogger()
 
